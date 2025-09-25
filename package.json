@@ -1,0 +1,25 @@
+{
+  "name": "temperature-converter",
+  "version": "0.1.0",
+  "description": "Converts tempertures between Fahrenheit and Celsius",
+  "keywords": [
+    "temparature",
+    "converter",
+    "utility"
+  ],
+  "homepage": "https://github.com/KamonLeigh/temperature-converter#readme",
+  "bugs": {
+    "url": "https://github.com/KamonLeigh/temperature-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamonLeigh/temperature-converter.git"
+  },
+  "license": "MIT",
+  "author": "Byron Dunkley",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
