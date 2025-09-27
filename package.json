@@ -1,6 +1,6 @@
 {
-  "name": "temperature-converter",
-  "version": "0.1.0",
+  "name": "@kamonleigh/temperature-converter",
+  "version": "1.0.0",
   "description": "Converts tempertures between Fahrenheit and Celsius",
   "keywords": [
     "temparature",
